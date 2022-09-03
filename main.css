@@ -1,0 +1,29 @@
+*{
+    
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: whitesmoke;
+}
+.container{
+    background: white;
+    padding: 20px 30px;
+    margin: 0.5em auto 1em;
+    border-radius: 8px;
+    width: 600px;
+    clear: both;
+    color: #111;
+    border: 1px solid rgba(0,0,0,.125);
+}
+article {
+    display: block;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+   
+    color: black;
+  }
